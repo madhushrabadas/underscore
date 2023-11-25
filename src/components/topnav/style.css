@@ -1,0 +1,27 @@
+.top{
+    /* background-color: #c74f4f; */
+    height: 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 0 5rem;
+}
+
+.rightx{
+    /* background-color: #3ad812; */
+    gap: 2rem;
+    display: flex;
+    float: right;
+    /* width: 12rem; */
+}
+.ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    gap: 3rem;
+}
+.icon{
+    padding: .2rem;
+    display: flex;
+    font-size: 1.7rem;
+}

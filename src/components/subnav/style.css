@@ -1,0 +1,22 @@
+.subnav {
+  background: #f9f1e7;
+  height: 6rem;
+  display: flex;
+  gap: 1rem;
+  padding: 0 8rem;
+  align-items: center;
+}
+.imgsub{
+    display: flex;align-items: center;justify-content: center;
+}
+
+hr{
+    width: 3px solid black;
+}
+
+
+
+
+
+
+

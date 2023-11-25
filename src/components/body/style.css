@@ -1,0 +1,61 @@
+.body {
+  height: 730px;
+  padding: 0 8rem;
+  display: flex;
+  /* background-color: #6e21d2; */
+}
+.left {
+  flex: 1;
+  /* background-color: #9d9cde; */
+  display: flex;
+  padding: 2rem 0;
+}
+.right {
+  flex: 1;
+  /* background-color: #de9c9c; */
+}
+
+.content{
+    /* background-color: #ad1212 ; */
+    padding: 3rem 1rem;
+}
+
+.heading{
+    font-size: 2.5rem; 
+}
+.price{
+    color: #6a6868;
+}
+.review{
+    display: flex;align-items: center;
+}
+
+.rev{
+    margin: 1rem 3rem;
+    color: rgb(127, 125, 125);
+    font-size: 1rem;
+}
+
+.box{
+    background-color: #c22e2e;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
